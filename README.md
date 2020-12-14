@@ -7,4 +7,4 @@ funciones de flechas y destructuracion**
 
 
 ### unidad 2
-**  valor de referencia muy importante , uso de if, else if y else**
+**  valor de referencia muy importante , uso de operador ternario, if, else if y else **
